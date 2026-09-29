@@ -1,0 +1,6 @@
+langgraph>=0.2
+langchain>=0.3
+langchain-google-genai>=2.0
+pydantic>=2
+langchain-google-vertexai
+pyinstaller>=6.0 ; sys_platform == "win32"
